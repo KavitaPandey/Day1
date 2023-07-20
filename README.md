@@ -22,7 +22,9 @@ The process will be described here.
 #Step4: Check using make test or make all if everything is working smooth
 
 #Step5: Go to Github Actions button, 
+
         click on create workflows, 
+        
         populate main.yaml by looking up for the same file from other project
 
 
