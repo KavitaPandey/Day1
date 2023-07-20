@@ -27,4 +27,6 @@ The process will be described here.
         
         populate main.yaml by looking up for the same file from other project
 
+#Step6: Everytime a code is pushed to/towards the main branch, CI is triggered
+
 
